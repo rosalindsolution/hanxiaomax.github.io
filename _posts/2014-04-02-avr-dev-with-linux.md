@@ -5,7 +5,6 @@ category: other
 tags: [AVR,LIUNX,gcc,avr-gcc]
 modified:
 image:
-  feature: article.jpg
 comments: true
 share: true
 ---
