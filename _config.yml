@@ -4,7 +4,7 @@ description:      A website provide all the solutions on Rosalind.
 disqus_shortname: feng the writer
 search:           true
 # Change url to your domain. Leave localhost server or blank when working locally.
-url:              http://rosalindsolution.github.io
+url:              http://shenlu.tk
 
 # Owner/author information
 owner:
