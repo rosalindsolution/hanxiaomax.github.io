@@ -3,7 +3,7 @@ layout: page
 permalink: /about/
 title: About this blog
 image:
-  feature: about.jpg
+
   credit: Michael Rose
   creditlink: http://mademistakes.com
 ---
