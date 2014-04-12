@@ -1,5 +1,5 @@
 title:            Rosalind Solution
-description:      A website provide all the solutions on Rosalind.
+description:      A website provides all the solutions on Rosalind.
 #logo:             site-logo.jpg
 disqus_shortname: feng the writer
 search:           true
@@ -39,15 +39,15 @@ links:
   - title: Python
     url: /Python/
   - title: R
-    url: /MATLAB/  
+    url: /R/  
   - title: Java
-    url: /etymology/
+    url: /Java/
   - title: C/C++
     url: /cpp/
   - title: Perl
-    url: /c51/
+    url: /Perl/
   - title: Supplement
-    url: /other/
+    url: /Supplement/
   - title: 新浪微博
     url: http://weibo.com/smilingly1989
     external: true
