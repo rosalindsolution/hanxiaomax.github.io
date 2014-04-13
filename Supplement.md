@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Supplement/index.html
+permalink: /Supplement/
 title: Supplement
 image:
 
