@@ -253,17 +253,17 @@ Video embeds are responsive and scale with the width of the main content block w
 
 Not sure if this only effects Kramdown or if it's an issue with Markdown in general. But adding YouTube video embeds causes errors when building your Jekyll site. To fix add a space between the `<iframe>` tags and remove `allowfullscreen`. Example below:
 
-{% highlight html %}
+<pre>
 <iframe width="560" height="315" src="http://www.youtube.com/embed/PWf4WUoMXwg" frameborder="0"> </iframe>
-{% endhighlight %}
+</pre>
 
 #### Social Share Links
 
 To enable Facebook, Twitter, and Google+ share links on a post or page, add the following to its front matter:
 
-{% highlight yaml %}
+<pre>
 share: true
-{% endhighlight %}
+</pre>
 
 #### Twitter Cards
 
@@ -279,9 +279,9 @@ So Simple Theme now supports **link posts**, made famous by John Gruber. To acti
 
 If you want to easily skin the themes' colors and fonts, take a look at `variables.less` in `assets/less/` and make the necessary changes to the color and font variables. To make development easier I setup a Grunt build script to compile/minify the LESS files into `main.min.css` and lint/concatenate/minify all scripts into `scripts.min.js`. [Install Node.js](http://nodejs.org/), then [install Grunt](http://gruntjs.com/getting-started), and then finally install the dependencies for the theme contained in `package.json`:
 
-{% highlight bash %}
+<pre>
 npm install
-{% endhighlight %}
+</pre>
 
 From the theme's root, use `grunt` to rebuild the CSS, concatenate JavaScript files, and optimize .jpg, .png, and .svg files in the `images/` folder. You can also use `grunt watch` in combination with `jekyll build --watch` to watch for updates to your LESS and JS files that Grunt will then automatically re-build as you write your code which will in turn auto-generate your Jekyll site when developing locally.
 
