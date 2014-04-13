@@ -26,7 +26,7 @@ share: true
 
 **网易的源**  
 
-<pre class="prettyprint linenums">
+<pre>
 deb http://mirrors.163.com/ubuntu/ raring main universe restricted multiverse  
 deb-src http://mirrors.163.com/ubuntu/ raring main universe restricted multiverse  
 deb http://mirrors.163.com/ubuntu/ raring-security universe main multiverse restricted  
