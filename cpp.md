@@ -3,7 +3,7 @@ layout: page
 permalink: /cpp/
 title: <img src='http://i.imgur.com/r4fxz5z.png' title='C/C++'/>
 image:
-
+categery: cpp
 ---
 
 <ul class="post-list">

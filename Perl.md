@@ -3,7 +3,7 @@ layout: page
 permalink: /Perl/
 title: <img src='http://i.imgur.com/7WFZ9vK.png' title='Perl'/>
 image:
-
+categery: Perl
 ---
 
 <ul class="post-list">

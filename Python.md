@@ -3,7 +3,7 @@ layout: page
 permalink: /Python/
 title: <img src='http://i.imgur.com/Te2nUFr.png' title='Python'/>
 image:
-
+categery: Python
 ---
 
 <ul class="post-list">
