@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /tags/
-title: Tag Index
+title: <img src="http://i.imgur.com/B43vrpS.png" title="Tags Index"/>
 description: "An archive of posts sorted by tag."
 ---
 
