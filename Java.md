@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /Java/
-title: <img src='http://i.imgur.com/KZA5ujZ.png' title='Hosted by imgur.com'/>
+title: <img src='/images/java.png' title='Java'/>
 categery: Java
 image:
 

@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /Python/
-title: <img src='http://i.imgur.com/Te2nUFr.png' title='Python'/>
+title: <img src='/images/python.png' title='Python'/>
 image:
 categery: Python
 ---
