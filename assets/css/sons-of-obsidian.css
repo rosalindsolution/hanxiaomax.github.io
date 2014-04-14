@@ -15,7 +15,7 @@ pre .dec { color: #98fb98 } /* decimal         - lightgreen */
 
 /* Specify class=linenums on a pre to get line numbering */
 ol.linenums { margin-top: 0; margin-bottom: 0; color: #AEAEAE } /* IE indents via margin-left */
-li.L0,li.L1,li.L2,li.L3,li.L5,li.L6,li.L7,li.L8 { list-style-type: none }
+li.L0,li.L1,li.L2,li.L3,li.L5,li.L6,li.L7,li.L8 { list-style-type: decimal }
 /* Alternate shading for lines */
 li.L1,li.L3,li.L5,li.L7,li.L9 { }
 
@@ -32,21 +32,3 @@ li.L1,li.L3,li.L5,li.L7,li.L9 { }
   pre .atn, code .atn { color: #404 }
   pre .atv, code .atv { color: #060 }
 }
-Hide details
-Change log
-r227 by mikesamuel on Feb 4, 2013   Diff
-fixed selector in Desert style so that the
-background color shows properly
-Go to:  
-Project members, sign in to write a code review
-Older revisions
- r198 by mikesamuel on Mar 30, 2012   Diff 
- r135 by mikesamuel on Mar 21, 2011   Diff 
- r123 by mikesamuel on Mar 4, 2011   Diff 
-All revisions of this file
-File info
-Size: 1645 bytes, 34 lines
-View raw file
-File properties
-svn:mime-type
-text/css;charset=UTF-8
