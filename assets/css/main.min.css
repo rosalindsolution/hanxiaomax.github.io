@@ -103,7 +103,8 @@ textarea {
     }
     pre, blockquote {
         border:1px solid #999;
-        page-break-inside:avoid
+        page-break-inside:avoid;
+        border-radius:8px;
     }
     thead {
         display:table-header-group
