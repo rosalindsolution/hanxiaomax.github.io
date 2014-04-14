@@ -307,7 +307,8 @@ pre {
     overflow-x:auto;
     font-size:12px;
     font-size:.75rem;
-    line-height:2
+    line-height:2;
+    border-radius:10px;
 }
 .highlight {
     margin-bottom:1.5em;
