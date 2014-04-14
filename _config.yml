@@ -35,7 +35,7 @@ bing_verify:
 # For external links add external: true
 links:
   - title: Home
-    url: http://shenlu.tk
+    url: /
   - title: About
     url: /about/
   - title: Python
