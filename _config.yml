@@ -1,6 +1,6 @@
 title:            Solution
 description:      /*A website plans to provide all the solutions of Rosalind.*/
-logo:             logo.png
+logo:             <img src="http://i.imgur.com/1oBIgba.png"/>
 disqus_shortname: feng the writer
 search:           true
 # Change url to your domain. Leave localhost server or blank when working locally.
