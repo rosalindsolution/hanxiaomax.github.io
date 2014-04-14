@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /R/
-title: <img src="http://i.imgur.com/IUX1VUH.png" title="R"/></img>
+title: <img src='http://i.imgur.com/K3Iid9V.png' title='R'/></img>
 
 ---
 
