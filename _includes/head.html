@@ -1,5 +1,5 @@
 <meta charset="utf-8">
-<title>{% if page.categery %}{{ page.categery }} &#8211; {% endif %}<img src='http://i.imgur.com/1oBIgba.png' url = 'http://rosalind.info/'/>{{ site.title }}</title>
+<title>{% if page.categery %}{{ page.categery }} &#8211; {% endif %}Rosalind {{ site.title }}</title>
 <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
 {% if page.tags %}<meta name="keywords" content="{{ page.tags | join: ', ' }}">{% endif %}
 
@@ -15,7 +15,7 @@
 <!-- Open Graph -->
 <meta property="og:locale" content="en_US">
 <meta property="og:type" content="article">
-<meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
+<meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}<img src='http://i.imgur.com/1oBIgba.png' url = 'http://rosalind.info/'/>{{ site.title }}{% endif %}">
 <meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
 <meta property="og:url" content="{{ site.url }}{{ page.url }}">
 <meta property="og:site_name" content="{{ site.title }}">
