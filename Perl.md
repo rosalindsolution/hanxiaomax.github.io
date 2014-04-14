@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /Perl/
-title: <img src='http://i.imgur.com/MoJOnCe.png' title='Perl'/>
+title: <img src='/images/perl.png' title='Perl'/>
 image:
 categery: Perl
 ---
