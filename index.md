@@ -1,6 +1,6 @@
 ---
 layout: page
-title: <img src='http://i.imgur.com/1oBIgba.png' title='Rosalind' url = 'http://rosalind.info/'/>
+title: <img src='http://i.imgur.com/1oBIgba.png' title='Rosalind'/>
 ---
 <ul class="post-list"> <!--<ul>无序列表,并调用一个post-list的css样式。-->
 {% for post in site.posts limit:10 %} 

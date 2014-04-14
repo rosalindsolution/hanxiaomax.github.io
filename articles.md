@@ -3,7 +3,6 @@ layout: page
 permalink: /articles/
 title: Articles
 image:
-
 description: "An archive of posts sorted by date."
 ---
 

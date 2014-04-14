@@ -34,8 +34,6 @@ bing_verify:
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: Home
-    url: /
   - title: About
     url: /about/
   - title: Python
@@ -50,6 +48,8 @@ links:
     url: /Perl/
   - title: Articles
     url: /articles/
+  - title: Tags
+  - url: /tags/
   - title: 新浪微博
     url: http://weibo.com/shenlu89
     external: true
