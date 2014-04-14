@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /cpp/
-title: C programing language
+title: <img src='http://i.imgur.com/r4fxz5z.png' title='C/C++'/>
 image:
 
 ---
