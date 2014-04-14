@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /articles/
-title: <img src="http://i.imgur.com/kJqy5Yv.png" title="Articles"/>
+title: <img src='http://i.imgur.com/kJqy5Yv.png' title='Articles'/>
 image:
 description: "An archive of posts sorted by date."
 ---
